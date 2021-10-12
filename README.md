@@ -1,5 +1,5 @@
 # Quiz-git
-Tugas Quiz Git Mobile Programming
+Mobile Programming
 
 Nama  : Nur Fikri
 
